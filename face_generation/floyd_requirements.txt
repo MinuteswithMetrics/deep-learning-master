@@ -1,3 +1,1 @@
-tqdm==4.11.2
-
 echo "tqdm" > floyd_requirements.txt
